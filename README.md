@@ -9,9 +9,8 @@
 **Notes:**  
 - This paper presents many **practical recommendations** for training deep neural networks, including initialization, optimization, activation functions, and regularization strategies.
 
-- Also discusses and recommends **Xavier (Glorot) Initialization**, which is well-suited for **sigmoid and tanh** activation functions.
-- It is a practical weight initialization strategy using a **uniform or normal distribution** designed to keep the variance of activations and gradients stable across layers
-  - helping to prevent vanishing or exploding gradients.
+- Also discusses and recommends **Xavier (Glorot) Initialization**, which is well-suited for **sigmoid and tanh** activation functions while training DNNs.    
+- It is a practical weight initialization strategy using a **uniform or normal distribution** designed to keep the variance of activations and gradients stable across layers helping to prevent vanishing or exploding gradients.
 
 
 ---
