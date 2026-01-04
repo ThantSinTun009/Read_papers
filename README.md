@@ -1,6 +1,7 @@
 # 📄 Paper Reading
 
-### Paper 1: Practical Recommendations for Gradient-Based Training of Deep Architectures
+### Paper 1
+**Title:** Practical Recommendations for Gradient-Based Training of Deep Architectures      
 **Authors:** ```Yoshua Bengio & Xavier Glorot```               
 **Year:** 2012  
 **Link:** https://arxiv.org/abs/1206.5533  
