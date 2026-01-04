@@ -1,14 +1,16 @@
 # 📄 Paper Reading
 
 ### Paper 1: Practical Recommendations for Gradient-Based Training of Deep Architectures
-**Authors:** Yoshua Bengio & Xavier Glorot 
+**Authors:** ```Yoshua Bengio & Xavier Glorot```               
 **Year:** 2012  
 **Link:** https://arxiv.org/abs/1206.5533  
 
 **Notes:**  
 - This paper presents many **practical recommendations** for training deep neural networks, including initialization, optimization, activation functions, and regularization strategies.
 
-- Also, discusses and recommends **Xavier (Glorot) Initialization** as a practical weight initialization strategy, among many other best practices for training deep networks.
+- Also discusses and recommends **Xavier (Glorot) Initialization**, which is well-suited for **sigmoid and tanh** activation functions.
+- It is a practical weight initialization strategy using a **uniform or normal distribution** designed to keep the variance of activations and gradients stable across layers
+  - helping to prevent vanishing or exploding gradients.
 
 
 ---
