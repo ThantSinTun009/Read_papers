@@ -32,3 +32,15 @@
 
 **Notes:**
 - Present the variants of ReLU and how they evaluate
+
+---
+
+### Paper 4
+**Title:** Self-Normalizing Neural Networks        
+**Authors:** ```Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter```        
+**Link:** https://arxiv.org/abs/1706.02515    
+
+**Notes:**
+- Highlights SNNs (Self-normalizing Neural Networks)
+- SNNs use a special activation function called SELU (Scaled Exponential Linear Unit) that makes neuron activations automatically converge to zero mean and unit variance, without needing Batch Normalization.
+
