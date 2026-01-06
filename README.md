@@ -24,3 +24,8 @@
 - Kaiming He is the researcher behind **He (Kaiming) Initialization**, a weight initialization method (*modified from Xavier Initilization*) that significantly improves training stability and convergence in deep networks using ReLU activations.
 
 ---
+
+### Paper 3
+**Title:** Empirical Evaluation of Rectified Activations in Convolutional Network    
+**Authors:** ```Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li```        
+**Link:** https://arxiv.org/abs/1505.00853  
