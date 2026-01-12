@@ -1,0 +1,4 @@
+Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection
+
+https://arxiv.org/abs/2601.05403
+
