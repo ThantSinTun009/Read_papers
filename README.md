@@ -1,5 +1,12 @@
 # 📄 Paper Reading
 
+
+### Paper 0
+**Title:** Adam: A Method for Stochastic Optimization     
+**Authors:** ```Diederik P. Kingma, Jimmy Ba```               
+**Year:** 2014      
+**Link:** https://arxiv.org/abs/1412.6980         
+
 ### Paper 1
 **Title:** Practical Recommendations for Gradient-Based Training of Deep Architectures      
 **Authors:** ```Yoshua Bengio & Xavier Glorot```               
